@@ -5,7 +5,7 @@
 mongodb_version: 2.6.4
 
 # The port for mongodb server
-mongodb_port: 9005
+mongodb_port: 27017
 
 # The directory prefix where the database files would be stored
 mongodb_datadir_prefix: /data/mongodb/
